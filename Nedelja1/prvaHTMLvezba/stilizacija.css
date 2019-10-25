@@ -1,0 +1,73 @@
+body {
+    background-color: grey;
+}
+header {
+    background-color: indianred;
+    text-align: center;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding: 1px;
+    font-family: "Courier New", Courier, monospace;
+}
+nav ul li {
+    display: inline;
+}
+li {
+    font-style: oblique;
+}
+main {
+    background-color: rgb(202, 185, 196);
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding: 50px;
+    font-family: "Courier New", Courier, monospace;
+}
+footer {
+    text-align: center;
+}
+#firstform {
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: small;
+   
+  
+}
+table, th, td {
+    border: 1px solid black;
+  }
+th {
+    background-color: lightseagreen;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    font-style: italic;
+}
+
+tbody {
+    text-align: center;
+    background-color: rosybrown;
+}
+#automobile {
+    font-weight: bold;
+    font-size: larger;
+}
+
+
+footer {
+    background-color: rgb(189, 117, 117);
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding: 1px;
+    font-family: "Courier New", Courier, monospace;  
+}
+#secondform {
+    font-size: smaller;
+}
